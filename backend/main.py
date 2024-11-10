@@ -4,7 +4,7 @@ from pydantic import BaseModel
 
 app = FastAPI()
 
-# Allow CORS for requests from the frontend
+# CORS requests
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["http://localhost:3000"],
@@ -13,7 +13,6 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# Define the request data model
 class StudentData(BaseModel):
     attendance_rate: float
     previous_grade: float
