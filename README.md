@@ -22,6 +22,12 @@ Smart Grades uses various machine learning models to uncover relationships betwe
 - **Gabriel Isaac Alonso** (Development)
 - **Cristina Alarcon** (Presentation)
 
+## 🚀 Getting Started
+
+To explore and run the project, use the provided **Google Colab Notebook**:
+
+- [Smart Grades Google Colab Notebook](https://colab.research.google.com/drive/1cvzzBiDxWgP2KxdkiRwtrCgo3BJ3zX4s?usp=sharing)
+
 ## 🛠️ How It Works
 
 ### Dataset Details
@@ -67,12 +73,6 @@ The dataset analyzes various factors such as:
 - **Previous Scores** showcase academic momentum.
 - **Access to Resources** negatively impacts grades when over-relied upon.
 - **Tutoring Sessions** offer consistent, albeit smaller, benefits.
-
-## 🚀 Getting Started
-
-To explore and run the project, use the provided **Google Colab Notebook**:
-
-- [Smart Grades Google Colab Notebook](https://colab.research.google.com/drive/1cvzzBiDxWgP2KxdkiRwtrCgo3BJ3zX4s?usp=sharing)
 
 ## 🌟 Highlights
 
